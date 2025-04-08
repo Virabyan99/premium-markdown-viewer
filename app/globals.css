@@ -112,6 +112,13 @@
   --sidebar-ring: oklch(0.553 0.013 58.071);
 }
 
+.prose code {
+  font-size: 0.875em;
+  background-color: #f3f4f6;
+  padding: 0.2em 0.4em;
+  border-radius: 0.25rem;
+}
+
 html, body {
   overflow-x: hidden;
 }
